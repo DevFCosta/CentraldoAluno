@@ -1,0 +1,34 @@
+ul {
+    list-style: none;
+   
+}
+
+ul label {
+    width: 70px;
+}
+
+ul input{
+    width: 70px;
+}
+
+#frmCadastro {
+    border: solid 0px;
+    padding-top: 20px;
+}
+
+#tblListar {
+    width: 100%;
+    border: solid 1px;
+    text-align: left;
+    border-collapse: collapse;
+    padding-top: 50px;
+}
+
+#tblListar tbody tr {
+    border: solid 1px;
+    height: 30px;
+}
+
+#tblListar thead {
+    background: #ddeedd;
+}
